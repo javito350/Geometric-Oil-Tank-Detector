@@ -13,7 +13,7 @@ This project implements a **Group Equivariant Convolutional Neural Network (G-CN
 ### 🖼️ Model Output
 *The model running in inference mode, correctly identifying tank geometry despite ground noise.*
 
-![Model Output](image_7cb0e5.jpg)
+![Model Output](demo_result.png)
 *(Note: Green label = Correct Prediction)*
 
 ### 🛠️ Tech Stack
