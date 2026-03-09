@@ -36,11 +36,3 @@ python test_model.py
 Volumetric Estimation: Analyzing shadow geometry to calculate percentage capacity of floating-roof tanks.
 
 Time-Series Analysis: correlating detected supply changes with WTI Crude Oil price movements.
-
-
----
-
-### Why this wins:
-1.  **"Economic Intelligence":** It sounds like a Master's thesis, not a homework assignment.
-2.  **Math Flex:** It mentions "$C_8$ Rotational Symmetry." That proves you know the math behind the code.
-3.  **Visuals:** That big green screenshot proves it works immediately.
